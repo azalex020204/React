@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      hollo
+      hollo 1
     </div>
   );
 }
